@@ -6,6 +6,8 @@ View of workshop, a header with three links, blue, red and home, with a page wit
 
 We will utilize the components from React Router to build out our functionality. There are no hooks for this workshop.
 
+http://localhost:5173/blue
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
