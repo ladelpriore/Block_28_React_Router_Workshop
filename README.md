@@ -10,4 +10,4 @@ Configure React Router, install react-router-dom, and import routes to App.jsx<b
 Navbar and the Link component to Red, Blue, and Home pages<br/>
 Finishing Up<br/>
 
-http://localhost:5173/blue
+<img width="362" alt="react router" src="https://github.com/user-attachments/assets/851f28af-00ae-47b7-ad66-0eeecc10abd3" />
